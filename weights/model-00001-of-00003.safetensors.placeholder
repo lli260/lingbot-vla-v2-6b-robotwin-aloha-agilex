@@ -1,0 +1,13 @@
+﻿# Placeholder: model-00001-of-00003.safetensors
+
+This repository does **not** store model weights.
+
+- Real file: `model-00001-of-00003.safetensors`
+- Size: 4,995,757,160 bytes (~4.65 GiB)
+- Hosted at: https://huggingface.co/liwy26/lingbot-vla-v2-6b-robotwin-aloha-agilex
+- Direct download:
+  https://huggingface.co/liwy26/lingbot-vla-v2-6b-robotwin-aloha-agilex/resolve/main/model-00001-of-00003.safetensors
+
+After download, place the file at the repository root (same directory as `config.json`).
+
+Verify with `SHA256SUMS` or `python examples/checkpoint_check.py .`
